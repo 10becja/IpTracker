@@ -1,0 +1,9 @@
+name: IpTracker
+version: 1.0
+main: me.becja10.IpTracker.IpTracker
+description: Tracks Player->IPs and IP->Players
+commands:
+  dunnoYet:
+    description: idk
+    usage: /idk [player]
+    aliases: [idk] 
